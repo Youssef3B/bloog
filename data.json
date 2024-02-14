@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "the first blog",
+    "content": "This is the content of the first blog post.",
+    "picture": "This is the image of the first blog post."
+  },
+  {
+    "id": 2,
+    "title": "the second blog",
+    "content": "This is the content of the second blog post.",
+    "picture": "This is the image of the second blog post."
+  },
+  {
+    "id": 3,
+    "title": "the third blog",
+    "content": "This is the content of the third blog post.",
+    "picture": "This is the image of the third blog post."
+  },
+  {
+    "id": 4,
+    "title": "the fourth blog",
+    "content": "This is the content of the fourth blog post.",
+    "picture": "This is the image of the fourth blog post."
+  }
+]
